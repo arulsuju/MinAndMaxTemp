@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="hotOrCold:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/hotOrCold_jar</output-path>
+    <root id="archive" name="hotOrCold.jar">
+      <element id="module-output" name="hotOrCold" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/hadoop-common-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/hadoop-mapreduce-client-core-0.23.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
